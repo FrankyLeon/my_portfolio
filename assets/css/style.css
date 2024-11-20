@@ -811,7 +811,15 @@ textarea.input-field {
 
   .project-card-2 .card-content { order: 1; }
 
+  .card-banner {
+    display: flex;
+    justify-content: center;
+  }
 
+  .card-banner img {
+    width: 35vw;
+    height: 50vh;
+  }
 
   /**
    * CONTACT
