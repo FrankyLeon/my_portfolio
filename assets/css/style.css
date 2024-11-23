@@ -493,6 +493,11 @@ body.nav-active { overflow: hidden; }
 
 .project-card .card-text { margin-block-end: 20px; }
 
+.card-skills {
+  /* text-align: left; */
+  margin-top: 2rem;
+}
+
 .project-card .btn-text {
   display: flex;
   align-items: center;
